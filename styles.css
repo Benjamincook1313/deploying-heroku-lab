@@ -1,0 +1,26 @@
+h1{
+    color: skyblue;
+    background-color: blueviolet;
+
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+img{
+    max-height: 200px;
+    max-width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: 'https://cdn.pixabay.com/photo/2012/04/12/13/12/snowboard-29970_960_720.png';
+    color: blue;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
